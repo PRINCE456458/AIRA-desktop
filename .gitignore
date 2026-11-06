@@ -1,0 +1,16 @@
+﻿# Aira - files that must never go to GitHub
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.pem
+*.zip
+.vscode/
+dist/
+build/
+*.spec
+/*.json
+builds/
+images/

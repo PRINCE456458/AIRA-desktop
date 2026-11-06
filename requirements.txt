@@ -1,0 +1,9 @@
+requests
+customtkinter
+pyttsx3
+pillow
+sounddevice
+numpy
+faster-whisper
+fpdf2
+python-docx
